@@ -1,1 +1,1 @@
-# EIA-Augabe-1
+# EIA-Aufgabe-1
