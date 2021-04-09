@@ -15,6 +15,9 @@ body{
     margin: auto;
     margin-top: 0;
 }
+.navigation{
+    position: fixed;
+}
 .insta{
     opacity: 0.5;
 }
@@ -35,10 +38,10 @@ li a:hover:not(.active) {
     background-color:rgb(180, 86, 204)}
 .active {
     background-color:rgb(180, 86, 204);
-    color: white;
+    color:white;
 }
 .inactive{
-    color: white;
+    color:white;
 }
 image{
     width: 800px;
